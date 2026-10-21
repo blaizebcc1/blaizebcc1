@@ -1,16 +1,15 @@
-## Hi there 👋
+Hey, I'm Blaize
+I mostly build stuff in Roblox Studio. Also do some website dev and I'm learning my way around Unreal Engine for game dev.
 
-<!--
-**blaizebcc1/blaizebcc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Been doing this for around 4 years now, mostly self taught. Still figuring a lot of it out as I go.
 
-Here are some ideas to get you started:
+What I'm into
+Roblox scripting and game systems
+Building websites
+Picking up Unreal Engine
+Right now
+Working on a new Roblox game, more on that soon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find me
+Site: blaizecornellclarke.dev
+Email: blaizebarclay@gmail.com
