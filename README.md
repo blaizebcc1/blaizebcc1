@@ -1,7 +1,7 @@
 Hey, I'm Blaize
 I mostly build stuff in Roblox Studio. Also do some website dev and I'm learning my way around Unreal Engine for game dev.
 
-Been doing this for around 4 years now, mostly self taught. Still figuring a lot of it out as I go.
+Been doing this for around 4 years now, mostly self taught.
 
 What I'm into
 Roblox scripting and game systems
